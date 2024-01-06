@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Algo V - Algorithm Visualization Tool
+
+Algo V is a web application built with React, TypeScript, and Tailwind CSS, designed to visualize sorting, searching, and minimum path algorithms.
+
+## Features
+
+- **Algorithm Visualizations**: Interactive visualizations for various sorting algorithms (e.g., bubble sort, quicksort), searching algorithms (e.g., binary search), and minimum path algorithms (e.g., Dijkstra's algorithm).
+- **Responsive Design**: Utilizes Tailwind CSS for a responsive and visually appealing user interface across devices.
+- **User Interaction**: Enables users to step through algorithm processes, visualize data changes, and understand algorithm behavior in real-time.
+- **Educational Tool**: Ideal for learning algorithms through practical, visual demonstrations.
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
